@@ -341,6 +341,11 @@ of code below the Schedule `<h2>` header below with
 {% endcomment %}
 
 <h2 id="schedule">Schedule</h2>
+<p> 
+The instructor will be available each day before class starting at 8 am to help with
+troubleshooting or to answer questions. Please take advantage of this time to help ensure
+the rest of the course remains on schedule.
+</p>
 
 {% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}
