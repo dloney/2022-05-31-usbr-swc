@@ -160,8 +160,10 @@ Modify the block below if there are any special requirements.
     Participants must bring a laptop with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% else %}
-    Participants must have access to a computer with a
-    Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+    Participants must have access to a Reclamation computer with a
+    Windows operating system. Please follow instructions to install the required software or have
+    administrative rights on your machine to install the software. Please reach out to the instructor
+    in advance if you have any issues with the installations.
   {% endif %}
   They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
